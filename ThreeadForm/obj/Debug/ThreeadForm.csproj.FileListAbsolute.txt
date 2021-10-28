@@ -1,0 +1,10 @@
+C:\Users\wirioliveira\source\repos\ClassesImportante\ThreeadForm\bin\Debug\ThreeadForm.exe.config
+C:\Users\wirioliveira\source\repos\ClassesImportante\ThreeadForm\bin\Debug\ThreeadForm.exe
+C:\Users\wirioliveira\source\repos\ClassesImportante\ThreeadForm\bin\Debug\ThreeadForm.pdb
+C:\Users\wirioliveira\source\repos\ClassesImportante\ThreeadForm\obj\Debug\ThreeadForm.csproj.AssemblyReference.cache
+C:\Users\wirioliveira\source\repos\ClassesImportante\ThreeadForm\obj\Debug\ThreeadForm.Form1.resources
+C:\Users\wirioliveira\source\repos\ClassesImportante\ThreeadForm\obj\Debug\ThreeadForm.Properties.Resources.resources
+C:\Users\wirioliveira\source\repos\ClassesImportante\ThreeadForm\obj\Debug\ThreeadForm.csproj.GenerateResource.cache
+C:\Users\wirioliveira\source\repos\ClassesImportante\ThreeadForm\obj\Debug\ThreeadForm.csproj.CoreCompileInputs.cache
+C:\Users\wirioliveira\source\repos\ClassesImportante\ThreeadForm\obj\Debug\ThreeadForm.exe
+C:\Users\wirioliveira\source\repos\ClassesImportante\ThreeadForm\obj\Debug\ThreeadForm.pdb
